@@ -29,6 +29,8 @@ margin-top: 30px;
 background-size: contain;
 background-repeat: no-repeat;}
 
+.footer p{text-align: center}
+
 .wrap{height: fit-content;
 max-width: fit-content;
 position: relative;
