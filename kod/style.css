@@ -1,0 +1,233 @@
+body{font-family: "Georgia";}
+
+.uvod{background-image: url(../pic/ds-.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;}
+
+.header{background-image: url(../pic/dark-souls-.png);
+height: 120px;
+width: 500px;
+margin: 0 auto;
+margin-top: 30px;
+background-size: contain;
+background-repeat: no-repeat;}
+
+.header2{background-image: url(../pic/ds2napis.png);
+height: 120px;
+width: 500px;
+margin: 0 auto;
+background-size: contain;
+background-repeat: no-repeat;}
+
+.header3{background-image: url(../pic/dark-souls-3-napis.png);
+height: 120px;
+width: 500px;
+margin: 0 auto;
+margin-top: 30px;
+background-size: contain;
+background-repeat: no-repeat;}
+
+.wrap{height: fit-content;
+max-width: fit-content;
+position: relative;
+max-width: 1280px;
+max-height: 720px;
+margin: 0 auto;}
+
+
+.base{background-color: #000000; 
+opacity: 0.7;
+margin: 0px 20px 20px 350px ;
+height: 680px;
+width:  930px;
+position: absolute;
+top: 0;
+left: 0;
+z-index: 1;}
+
+.base2{margin: 20px 20px 20px 350px ;
+height: 680px;
+width: 900px;
+position: relative;
+z-index: 2;
+color: #FFFFFF;
+padding: 15px;}
+
+.base2 a{text-decoration: underline;
+color: #b3b3b3;}
+
+.menu{background-color:#000000; 
+opacity: 0.7;
+height: 680px;
+width: 300px;
+float: left;
+color: #FFFFFF;
+letter-spacing: 2px;
+position: absolute;
+top: 0;
+left: 0;
+z-index: 1;}
+
+.menu2{height: 680px;
+width: 300px;
+color: #FFFFFF;
+float: left;
+letter-spacing: 2px;
+padding-left: 10px;
+position: relative;
+z-index: 2;}
+
+.footer{width: 1280px;
+height: 50px;
+background-color: #000000;
+opacity: 0.7;
+float: right;
+}
+
+a{text-decoration: none;
+color:  #FFFFFF;}
+
+a:hover{color: #8b8b8b ;}
+
+a.current {color: #8b8b8b }
+
+
+.base2 h2{margin: 0;}
+
+.ds1-anorlando{background-image: url(../pic/ds1anorlondo.jpeg);
+background-attachment: fixed;
+ background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+.pic{background-image: url(../pic/darksouls1.jpg);
+height: 500px;
+width: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+float: right;
+margin: 30px;
+}
+
+.artorias{background-image: url(../pic/artorias.webp);
+background-attachment: fixed;
+ background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+.pic2{background-image: url(../pic/darksoulsar.jpg);
+height: 500px;
+width: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+float: right;
+margin: 30px;}
+
+.ds2{background-image: url(../pic/ds2.jpeg);
+background-attachment: fixed;
+ background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+.pic3{background-image: url(../pic/darksouls2.jpg);
+height: 500px;
+width: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+float: right;
+margin: 30px;}
+
+.sunken{background-image: url(../pic/sunken.jpg);
+background-attachment: fixed;
+ background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+.pic4{background-image: url(../pic/ds2sunken.jpg);
+height: 500px;
+width: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+float: right;
+margin: 30px;}
+
+
+.iron{background-image: url(../pic/iron.jpg);
+background-attachment: fixed;
+ background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+.pic5{background-image: url(../pic/dsiron.jpg);
+height: 500px;
+width: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+float: right;
+margin: 30px;}
+
+
+.ivory{background-image: url(../pic/ivory.jpg);
+background-attachment: fixed;
+ background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+.pic6{background-image: url(../pic/ds2ivory.jpg);
+height: 500px;
+width: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+float: right;
+margin: 30px;}
+
+
+.ds3{background-image: url(../pic/Irithyll_of_the_Boreal_Valley_-_12.webp);
+background-attachment: fixed;
+ background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+.pic7{background-image: url(../pic/darksouls3.jpg);
+height: 500px;
+width: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+float: right;
+margin: 30px;}
+
+.ariandel{background-image: url(../pic/ariandel.webp);
+background-attachment: fixed;
+ background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+.pic8{background-image: url(../pic/ds3ash.jpg);
+height: 500px;
+width: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+float: right;
+margin: 30px;}
+
+.ringed{background-image: url(../pic/ringedcity.jpg);
+background-attachment: fixed;
+ background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+.pic9{background-image: url(../pic/ds3ring.jpg);
+height: 500px;
+width: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+float: right;
+margin: 30px;}
+
+
+
+
+
+
