@@ -1,4 +1,5 @@
-body{font-family: "Georgia";}
+body{font-family: "Georgia";
+    margin: 0}
 
 .uvod{background-image: url(pic/ds-.jpg);
 background-repeat: no-repeat;
